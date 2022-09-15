@@ -9,7 +9,7 @@ variable "cidr_subnet" {
 }
 
 variable "enviroment" {
-    description = "Ambiente onde o recurso sera utilizado"
+    description = "Ambiente onde os recursos serao utilizado"
     type = string
 
 }
